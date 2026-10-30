@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <Border VerticalAlignment="Center" HorizontalAlignment="Center" Background="Gray" CornerRadius="20">
+        <Border VerticalAlignment="Center" HorizontalAlignment="Center" Background="Gray" CornerRadius="20" Margin="10">
             <StackPanel>
                 <Image Source="/Images/image1.png" Height="200" Margin="10"/>
                 <Label Content="Наименование" Name="nameProduct" HorizontalAlignment="Center" Foreground="White"/>
